@@ -58,7 +58,7 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=webdevifti&color=blueviolet&style=flat-square) 
+![Visitor](https://komarev.com/ghpvc/?username=webdeviftia&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/webdevifti)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
