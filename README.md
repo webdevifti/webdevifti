@@ -7,27 +7,27 @@
 
 <br>
 
-I am **Sujon Ahmed**, a *web application developer*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
+I am **Eftekhar Alam**, a *web application developer*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
 
-- 😎 Name pronunciation: **Su-jon**
+- 😎 Name pronunciation: ** if te khar** Nick Name - **iFTi**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing funny happening in life.. 😐
+- ⚡ Fun fact: Life is beautifull.. 😐
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
-[![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
-[![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/webdevifti/)](https://www.linkedin.com/in/webdevifti/)
+[![Twitter: webdevifti](https://img.shields.io/twitter/follow/webdevifti?style=social)](https://twitter.com/webdevifti)
+[![GitHub: webdevifti](https://img.shields.io/github/followers/webdevifti?label=follow&style=social)](https://github.com/webdevifti)
 
 ## Hello World! 🙋‍♂️
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/jesco">Jesco</a>
-- 🌱 I’m currently learning *React*
+- 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/maru-modus">maru modus</a>
+- 🌱 I learned *React*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *React*
-- 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
+- 💬 Ask me about anything at [@webdevifti](https://twitter.com/webdevifti)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/webdevifti)
 
 
 ## Skills
@@ -67,9 +67,8 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 
 
 <div>
-  <a href="https://github.com/Sujon-Ahmed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/webdevifti">
+ 
 </div>
   
 <img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
