@@ -52,15 +52,14 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 <br>
 <br>
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=sujon-ahmedz&color=blueviolet&style=flat-square) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sujon-ahmed)
+![Visitor](https://komarev.com/ghpvc/?username=webdevifti&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/webdevifti)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
@@ -71,6 +70,4 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
  
 </div>
   
-<img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 
