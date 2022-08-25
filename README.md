@@ -15,7 +15,7 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/webdevifti/)](https://www.linkedin.com/in/webdevifti/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/webdevifti?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/webdevifti/)](https://www.linkedin.com/in/webdevifti/)
 [![Twitter: webdevifti](https://img.shields.io/twitter/follow/webdevifti?style=social)](https://twitter.com/webdevifti)
 [![GitHub: webdevifti](https://img.shields.io/github/followers/webdevifti?label=follow&style=social)](https://github.com/webdevifti)
 
