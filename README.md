@@ -22,7 +22,7 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
 ## Hello World! 🙋‍♂️
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/maru-modus">maru modus</a>
+- 🔭 I’m currently working on <a href="https://app.egpeek.com/">EGPeek</a>
 - 🌱 I learned *React*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *React*
