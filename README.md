@@ -22,10 +22,7 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
 ## Hello World! 🙋‍♂️
 
 
-- 🔭 I’m currently working on <a href="https://app.egpeek.com/">EGPeek</a>
-- 🌱 I learned *React*
-- 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *React*
+- 🔭 I’m currently working on <a href="https://app.egpeek.com/">EGPeek</a> project
 - 💬 Ask me about anything at [@webdevifti](https://twitter.com/webdevifti)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/webdevifti)
 
