@@ -21,7 +21,7 @@ I am **Eftekhar Alam**, a *web application developer*. I have a passion for lear
 ## Hello World! 🙋‍♂️
 
 
-- 💬 Ask me about anything at [@webdevifti](https://twitter.com/webdevifti)
+- 💬 Ask me about anything at [@webdevifti](https://www.facebook.com/webdevifti)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/webdevifti)
 
 
